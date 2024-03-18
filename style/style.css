@@ -8,24 +8,6 @@
     background: linear-gradient(140deg, #000000 80%, #FFA600 20%);
     position: relative;
 }
-.randomshape{
-    width: 100px;
-	height: 100px;
-    transform: skew(130deg);
-    background: linear-gradient(to right , #FFA600 50%, #000000 50%);
-    position: absolute;
-    right: 350px;
-}
-.randomshape1{
-    width: 100px;
-	height: 100px;
-    transform: skew(30deg);
-    background: linear-gradient(to right , #FFA600 50%, #000000 50%);
-    position: absolute;
-    right: 445px;
-    z-index: -4;
-    opacity: 80%;
-}
 .profile-container{
     display: flex;
     align-items: center;
